@@ -14,6 +14,7 @@
 - **予定・祝日** — 日付クリックでイベント追加、日本の祝日表示
 - **PDF** — 両面印刷向け（表紙の裏は白紙、裏面の上下反転オプション）
 <img width="1124" height="861" alt="スクリーンショット 2026-09-20 020718" src="https://github.com/user-attachments/assets/f84f9cad-7974-4226-86e2-68ca2b91a820" />
+<img width="1882" height="891" alt="スクリーンショット 2026-09-20 021008" src="https://github.com/user-attachments/assets/4e1a6c5d-fb27-42f3-a78f-56336f8ee842" />
 <img width="1102" height="785" alt="スクリーンショット 2026-09-20 020621" src="https://github.com/user-attachments/assets/04fe4c42-cac8-4ecf-9c26-cf2135025ff1" />
 <img width="1102" height="767" alt="スクリーンショット 2026-09-20 020452" src="https://github.com/user-attachments/assets/f82342f9-360c-449f-9e38-b0413efba5a3" />
 <img width="1101" height="780" alt="スクリーンショット 2026-09-20 020431" src="https://github.com/user-attachments/assets/f6c8a471-20cb-4471-8af4-4709a9b96ef9" />
